@@ -1,4 +1,4 @@
-<h2>Site criado com tabelas utilizando tags semanticas header, nav, article e footer </h2>
+<h2>Site em tabelas utilizando tags semanticas header, nav, article e footer </h2>
 
 <h3>Tela Site:</h3>
 
