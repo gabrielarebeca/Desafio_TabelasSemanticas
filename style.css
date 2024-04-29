@@ -1,12 +1,12 @@
 table {
-    width: 1310px;
-    height: 750px;
+    width: 1390px;
+    height: 690px;
     background-color: #F5F5F5;
 }
 
 .header{
-    display: flex;
-    height: 1px;
+    display: inline-block;
+    position: absolute;
 }
 
 .logo {
@@ -19,7 +19,7 @@ table {
 
 .title {
     margin: 50px;
-    margin-left: 220px;
+    margin-left: 200px;
     float: right;
     font-size: x-large;
     font-family: 'Segoe UI';
@@ -29,14 +29,13 @@ ul {
     overflow: hidden;
     background-color: #434648;
     padding: 8px;
-    margin: 20px;
 }
 
 li {
     float: left;
-    display: flex;
+    display: inline;
     padding: 14px 16px;
-    margin-left: 50px;
+    margin-left: 65px;
 }
 
 a {
@@ -46,22 +45,20 @@ a {
 
 .article {
     width: 1310px;
-    height: 30px;
-    margin: 20px;
+    height: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.monitor{
-    margin-top: 30px;
-    margin-left: 150px;
+.monitor {
+    margin: 40px;
+    margin-left: 10px;
     width: 300px;
     height: 300px;
 }
 
 .notebook {
-    margin-top: 30px;
     margin-left: 100px;
     width: 420px;
     height: 280px;
